@@ -1,0 +1,3 @@
+[submodule "test/max"]
+	path = test/max
+	url = git@github.com:MaxRadma/parent.git
