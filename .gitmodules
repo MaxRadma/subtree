@@ -1,0 +1,3 @@
+[submodule "test/submodul_1"]
+	path = test/submodul_1
+	url = https://github.com/MaxRadma/child.git
