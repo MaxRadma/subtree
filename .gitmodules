@@ -1,1 +1,7 @@
 
+[submodule "plugins"]
+	path = plugins
+	url = https://github.com/MaxRadma/parent
+[submodule "projects"]
+	path = projects
+	url = https://github.com/MaxRadma/parent
