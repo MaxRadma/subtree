@@ -1,4 +1,1 @@
 
-[submodule "submodule-parent"]
-	path = submodule-parent
-	url = https://github.com/MaxRadma/parent
